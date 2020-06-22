@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_200dp">200dp</dimen>
+    <dimen name="margin_20dp">20dp</dimen>
+    <dimen name="tet_20sp">20sp</dimen>
+</resources>
